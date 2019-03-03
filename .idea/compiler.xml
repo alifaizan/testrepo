@@ -6,10 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Amazin Online Bookstore" />
-        <module name="Sysc 4806 lab" />
-        <module name="SYSC-4806-Project" />
-        <module name="Tappo" />
+        <module name="AddressBook" />
+        <module name="lab1" />
       </profile>
     </annotationProcessing>
   </component>
