@@ -12,7 +12,7 @@ public class AddressBookController {
     @Autowired
     private AddressBookRepository addressRepo;
 
-    @RequestMapping ("/")
+    @RequestMapping ("/create")
     public AddressBook newbook (@RequestParam (value = "name", defaultValue = "book1") String id, Model model){
 
         AddressBook book = new AddressBook();
