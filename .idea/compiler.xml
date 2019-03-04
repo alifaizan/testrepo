@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Sysc 4806 lab" />
         <module name="Tappo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Tappo" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
