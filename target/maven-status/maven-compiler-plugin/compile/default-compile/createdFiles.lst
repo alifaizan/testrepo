@@ -1,0 +1,14 @@
+Pack\StudentController.class
+Pack\StudentRepository.class
+Pack\Topic.class
+Pack\Prof.class
+Pack\Student.class
+Pack\CoordinatorController.class
+Pack\CoordinatorRepository.class
+Pack\TopicController.class
+Pack\TopicRepository.class
+Pack\HomeController.class
+Pack\Application.class
+Pack\ProfRepository.class
+Pack\ProfController.class
+Pack\Coordinator.class
